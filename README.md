@@ -1,6 +1,3 @@
-# Elasticsearch-and-kibana-setup
-
-````markdown
 # Elasticsearch and Kibana Setup on Vultr
 
 ## Introduction
@@ -133,12 +130,3 @@ Elasticsearch and Kibana are part of the Elastic Stack, widely used for log mana
 * Enables monitoring, alerting, and security event investigation.
 
 ---
-
-## Conclusion
-
-Deploying Elasticsearch and Kibana on Vultr enhances visibility into system and security events. Elasticsearch handles data ingestion and indexing, while Kibana transforms raw data into meaningful dashboards and reports. Despite setup challenges like configuration and firewall rules, the result is a powerful analytics platform that supports monitoring, troubleshooting, and cybersecurity operations.
-
-```
-
-Do you want me to also **export this Markdown into a `.md` file** so you can download and use it directly?
-```
