@@ -25,7 +25,6 @@ Elasticsearch and Kibana are part of the Elastic Stack, widely used for log mana
 3. **Login via SSH** from PowerShell:  
    ```bash
    ssh root@<generated-IP>
-````
 
 4. **Update repositories**:
 
