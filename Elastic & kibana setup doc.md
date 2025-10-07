@@ -110,7 +110,7 @@ Elasticsearch and Kibana are part of the Elastic Stack, widely used for log mana
 * Remembering to save and manage generated passwords and tokens.
 * Editing configuration files (`elasticsearch.yml` and Kibana settings) properly to match the server IP.
 * Handling installation errors due to missing dependencies or incorrect package versions.
-* Network access errors such as blocked ports (e.g., port 5601 for Kibana).
+* Network access errors such as blocked ports (e.g., port 5601 for Kibana)
 
 ---
 
