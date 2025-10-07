@@ -1,7 +1,3 @@
-Here’s a clean, professional **Markdown version** of your document:
-
----
-
 # **Elastic Agent and Fleet Server Setup**
 
 ## **Objective**
@@ -138,5 +134,3 @@ You can also search for `Zic Windows` in Elasticsearch logs to verify visibility
 * Failed agent enrollment due to misconfigured firewall or IP restrictions.
 
 ---
-
-Would you like me to **add code block syntax highlighting** (for PowerShell, Bash, etc.) and format this into a **GitHub README.md style** layout for publishing or documentation use?
